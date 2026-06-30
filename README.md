@@ -1,5 +1,6 @@
 # Project 2 - Readers/Writers
 Names: Hilary Jaen, Matthew Cisco
+
 Group: 6
 
 ## Implementation Note
@@ -77,7 +78,7 @@ Command used:
 
 ./ReadersWriters 1000000000 500000000 1000000000 500000000 1000000 1000 1000000 1000 1 6
 
-### What we observed
+### What We observed:
 - Run time: 10.28 seconds
 - Total number of reads: 16
 - Total number of writes: 6585
@@ -89,7 +90,7 @@ Command used:
 
 ./ReadersWriters 1000000 1000 1000000 1000 1000000000 500000000 1000000000 500000000 6 1
 
-### What We observed
+### What We observed:
 - Run time: 10.31 seconds
 -  Total number of reads: 22499
 - Total number of writes: 14
